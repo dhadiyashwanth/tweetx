@@ -1,0 +1,24 @@
+.feed {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    justify-content: center;
+    margin-left: 500px;   
+}
+
+.write_btn {
+    background-color: #ff5890;
+    color: white;
+    padding: 12px 33px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    font-weight: bold ;
+    text-decoration: none;
+    -webkit-box-shadow: 0px 1px 2px 1px #ccc;  
+-moz-box-shadow: 0px 1px 2px 1px #ccc;  
+box-shadow: 0px 1px 2px 1px #ccc; 
+}

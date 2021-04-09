@@ -1,0 +1,4 @@
+.followers_container {
+    display: grid;
+    place-items: center;
+}

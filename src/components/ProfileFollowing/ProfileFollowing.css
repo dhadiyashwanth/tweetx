@@ -1,0 +1,4 @@
+.following_container {
+    display: grid;
+    place-items: center;
+}
