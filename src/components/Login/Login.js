@@ -24,7 +24,7 @@ function Login() {
         </form>
         </div>
         <div className="image_bg">
-        <img src="https://lh3.googleusercontent.com/proxy/BbE9rr-SWVd5bd9w5mNer57FfFCVj51_UdSNjPC-oKKOUT8T8cbAexSJkzVOlYPR24AUi-9QZi8J0-8R75rgEUH1_dbYId3kPQ5CIGhCe-88tGHsLODu9FWN-ExQp-ZVKOURJTartdVV0r6LJMfixg" alt=""/>
+        <img src="https://lh3.googleusercontent.com/proxy/pHPIiaieJKAC6ve2CKS-eY4tpKlHWSmGjKgg7spfnTwPJHL7wOTa2fwPit_7TEqbxVqpOv20LKCQE0rFPtuv5ib0LXkmpkRY6gNBWsiO8Dj2Pl1Ykbp1ENUXR1Qbmw0cmWP0tAxVylcLKF3LvRse2g" alt=""/>
         </div>
         </div>
         
